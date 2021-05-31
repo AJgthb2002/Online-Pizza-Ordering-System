@@ -1,11 +1,11 @@
 # Online Pizza Ordering System
 ```
  ___                             _   _         _     
-(  _`\  _                       ( ) ( )       ( )_  
-| |_) )(_) ____  ____    _ _    | |_| | _   _ | ,_)  
-| ,__/'| |(_  ,)(_  ,) /'_` )   |  _  |( ) ( )| |    
-| |    | | /'/_  /'/_ ( (_| |   | | | || (_) || |_   
-(_)    (_)(____)(____)`\__,_)   (_) (_)`\___/'`\__)) 
+(  _`\  _                       ( ) ( )       ( )_             //''---.._          
+| |_) )(_) ____  ____    _ _    | |_| | _   _ | ,_)           ||  (_)  _ '-._    
+| ,__/'| |(_  ,)(_  ,) /'_` )   |  _  |( ) ( )| |             ||    _ (_)    '-. 
+| |    | | /'/_  /'/_ ( (_| |   | | | || (_) || |_            ||   (_)   __..-'  
+(_)    (_)(____)(____)`\__,_)   (_) (_)`\___/'`\__))           \\__..--''  
 ```
 This is a group project for the course Data Structures and Algorithms 2 Laboratory (CE 2201). </br>
 Aim of the project is to develop an online facility for customers to order pizzas from a pizza shop. </br>
